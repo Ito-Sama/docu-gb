@@ -1,0 +1,5 @@
+https://www.copetti.org/fr/writings/consoles/game-boy/
+https://gbdev.io/pandocs/
+http://www.emulator101.com/
+https://gbdev.gg8.se/files/
+https://eldred.fr/gb-asm-tutorial/index.html
